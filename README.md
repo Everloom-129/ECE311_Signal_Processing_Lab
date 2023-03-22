@@ -4,4 +4,4 @@ This repository contains lab records for ECE311, a top-rated course at UIUC that
 ## Warning: 
 The code in this repository is for educational purposes only. Copying or submitting this code as your own for academic credit is strictly prohibited and may result in disciplinary actions. Please use this code only as a reference to guide you in your own work.
 
-For the details, please reference this ![UIUC-Academic-Integrity-rule](https://github.com/Violet24K/UIUC-Academic-Integrity)
+For the details, please reference [UIUC-Academic-Integrity-rule](https://github.com/Violet24K/UIUC-Academic-Integrity)
